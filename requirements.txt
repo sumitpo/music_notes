@@ -1,0 +1,3 @@
+abctools==0.2.4
+svgwrite==1.4.3
+weasyprint==62
